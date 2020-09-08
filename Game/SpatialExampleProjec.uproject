@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E510361B-4B1E-1003-886C-00AC1EA67882}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SpatialExampleProjec",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
